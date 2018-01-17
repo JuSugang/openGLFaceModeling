@@ -1,0 +1,54 @@
+﻿  Main.cpp
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(39): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(39): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(41): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(41): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(43): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(43): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(45): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(45): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(55): warning C4554: '^': 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(120): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: 'sscanf' 선언을 참조하십시오.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(124): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: 'sscanf' 선언을 참조하십시오.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(128): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: 'sscanf' 선언을 참조하십시오.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(137): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: 'sscanf' 선언을 참조하십시오.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(146): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(157): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(158): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(159): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(161): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(200): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(203): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(208): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(211): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(239): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(244): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(249): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(314): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(320): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(326): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(409): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(417): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(425): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(387): warning C4101: 'hy' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(387): warning C4101: 'hx' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(385): warning C4101: 'vx' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(387): warning C4101: 'hz' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(386): warning C4101: 'lz' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(386): warning C4101: 'lx' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(385): warning C4101: 'vy' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(385): warning C4101: 'vz' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(383): warning C4101: 'lVector' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(386): warning C4101: 'ly' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(384): warning C4101: 'hVector' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(382): warning C4101: 'vVector' :참조되지 않은 지역 변수입니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(472): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tnrkd\desktop\sugang\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\컴그_과제5_주수강,임솔미\main.cpp(473): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴그_과제5_주수강,임솔미.vcxproj -> C:\Users\tnrkd\Desktop\SUGANG\포트폴리오백업\3학년\컴퓨터그래픽스\컴퓨터그래픽스\Debug\컴그_과제5_주수강,임솔미.exe
